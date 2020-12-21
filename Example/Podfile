@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ITSAVerifyCode_Example' do
+  pod 'ITSAVerifyCode', :path => '../'
+
+  target 'ITSAVerifyCode_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
