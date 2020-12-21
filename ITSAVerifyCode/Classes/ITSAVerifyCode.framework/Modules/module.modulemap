@@ -1,0 +1,6 @@
+framework module ITSAVerifyCode {
+  umbrella header "ITSAVerifyCode.h"
+
+  export *
+  module * { export * }
+}
