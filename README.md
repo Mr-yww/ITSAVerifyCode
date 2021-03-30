@@ -22,7 +22,7 @@ pod 'ITSAVerifyCode'
 
 ## Author
 
-Mr-yww, yangxc@tech.icbc.com.cn
+Mr-yww, yxc_it@163.com
 
 ## License
 
